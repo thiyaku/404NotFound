@@ -4,7 +4,8 @@
     "description": "devchallenges.io - RESPONSIVE WEB DEVELOPER : 404 Not Found page design",
     "main": "index.html",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "echo 'build script executed'"
     },
     "repository": {
         "type": "git",
