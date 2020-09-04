@@ -88,7 +88,8 @@ button {
     font-size: 14px;
     line-height: 17px;
     color: #333333;
-    padding-bottom: 30px;
+    position: relative;
+    bottom: 25px;
 }
 
 @media (max-width: 768px) {
